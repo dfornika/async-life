@@ -1,4 +1,4 @@
-(ns dfornika.quil-life-test
+(ns dfornika.async-life-test
     (:require
      [cljs.test :refer-macros [deftest is testing]]
-     [dfornika.quil-life :as ql]))
+     [dfornika.async-life :as al]))
